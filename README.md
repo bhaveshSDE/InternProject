@@ -17,3 +17,5 @@ In this website, I've created a fashion store website that helps to find cheap r
 # Contact Page
 ![Screenshot (21)](https://user-images.githubusercontent.com/108925825/178287572-df5e06c4-d448-4691-bf3a-bf489587f8dd.png)
 ![Screenshot (22)](https://user-images.githubusercontent.com/108925825/178287629-732ae6eb-bef5-4f2b-a2c1-dd47092da568.png)
+# Azure Portal
+![Screenshot (23)](https://user-images.githubusercontent.com/108925825/178288627-cfc59c9d-d57a-4977-864b-7d85279cb830.png)
